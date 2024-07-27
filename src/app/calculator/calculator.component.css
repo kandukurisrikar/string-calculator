@@ -1,0 +1,13 @@
+.calculator {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
